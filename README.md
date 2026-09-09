@@ -234,3 +234,6 @@ This repository serves as the official landing page for USBDeview. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of USBDeview today!**
+
+---
+**Last updated:** 2026-09-09 17:04:13 UTC
