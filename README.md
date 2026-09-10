@@ -236,4 +236,4 @@ This repository serves as the official landing page for USBDeview. The software 
 **Get the most recent version of USBDeview today!**
 
 ---
-**Last updated:** 2026-09-10 08:45:49 UTC
+**Last updated:** 2026-09-10 13:23:22 UTC
